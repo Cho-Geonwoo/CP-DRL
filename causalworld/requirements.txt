@@ -1,0 +1,7 @@
+causal-world==1.2
+matplotlib==3.6.3
+pybullet==2.8.5
+numpy==1.24.3
+torch==2.4.1
+torchaudio==2.4.1
+torchvision==0.19.1

@@ -1,0 +1,3 @@
+[submodule "currot"]
+	path = currot
+	url = git@github.com:psclklnk/currot.git

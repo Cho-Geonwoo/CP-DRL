@@ -1,0 +1,11 @@
+*.pyc
+*.pkl
+*.zip
+*.npy
+*.pdf
+.DS_Store
+nadaraya-watson/build
+nadaraya-watson/nadaraya_watson.egg-info
+log/
+logs/
+__pycache__/
