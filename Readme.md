@@ -1,6 +1,7 @@
 # Causal-Paced Deep Reinforcement Learning
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![arXiv](https://img.shields.io/badge/arXiv-2507.02910-b31b1b.svg)](https://arxiv.org/abs/2507.02910)
 
 **CP-DRL** (Causal-Paced Deep Reinforcement Learning) is a curriculum learning framework aware of SCM differences between tasks based on interaction data approximation. This signal captures task novelty, which we combine with the agent’s learnability, measured by reward gain, to form a unified objective. Empirically, CP-DRL outperforms existing curriculum methods on the Point Mass benchmark, achieving faster convergence and higher returns. CP-DRL demonstrates reduced variance with comparable final returns in the Bipedal Walker-Trivial setting, and achieves the highest average performance in the Infeasible variant.
 
@@ -65,3 +66,14 @@ Please note that this codebase may not exactly reproduce the results reported in
 ## 📄 License
 
 This project is released under the **MIT License**. Please note that it depends on several third-party libraries, each of which is governed by its own license.
+
+## Citation
+
+```
+@article{CP-DRL,
+  title={Causal-Paced Deep Reinforcement Learning},
+  author={Cho, Geonwoo and Im, Jaegyun and Kim, Doyoon and Kim, Sundong},
+  journal={Workshop on Causal Reinforcement Learning, Reinforcement Learning Conference},
+  year={2025}
+}
+```
